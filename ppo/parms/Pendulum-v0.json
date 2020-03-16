@@ -1,0 +1,16 @@
+{
+    "game": "Pendulum-v0",
+    "gamma": 0.95,
+    "lamda": 0.95,
+    "lr_a": 0.0001,
+    "lr_c": 0.0002,
+    "train_step": 1,
+    "train_step_len": 1,
+    "critic_epoch": 10,
+    "actor_epoch": 10,
+    "batch_size": 1,
+    "clip_ep": 0.2,
+    "clip_grad": 10.0,
+    "entropy_ecoff": 0.01,
+    "seed": 1
+}
