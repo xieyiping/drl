@@ -1,0 +1,14 @@
+{
+    "game": "Pendulum-v0",
+    "replay_size": 10000,
+    "start_size": 5000,
+    "batch_size": 32,
+    "gamma": 0.9,
+    "tau": 0.01,
+    "lr_a": 0.001,
+    "lr_c": 0.002,
+    "train_step": 40,
+    "train_step_len": 600,
+    "var": 2,
+    "seed": 1
+}
