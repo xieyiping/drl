@@ -1,0 +1,18 @@
+{
+    "game": "simple_speaker_listener",
+    "replay_size": 8000,
+    "start_size": 1000,
+    "batch_size": 32,
+    "check_rate": 30,
+    "gamma": 0.95,
+    "tau": 0.001,
+    "lr_a": 0.001,
+    "lr_c": 0.002,
+    "train_ep": 6000,
+    "train_ep_len": 50,
+    "seed": 1,
+    "n_agent":2,
+    "a_bound": 1.0,
+    "save_model_rate": 100,
+    "train_interval": 100
+}
